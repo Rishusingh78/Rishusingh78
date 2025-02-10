@@ -1,9 +1,8 @@
 ## Hi 👋I'm Rishu Kr singh 
 
 <!--
-**Rishusingh78/Rishusingh78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 # 💫 About Me:
 👋 Hi, I’m @Rishusingh78<br>👀 Passionate about coding and tech!<br>🌱 Currently diving deep into backend web development.<br>💬 Open to collaborations on exciting projects!<br>📫 You can reach me via [email/rishukrsingh78@gmail.com/].<br>😄 Pronouns: he/him<br>⚡ Fun fact: I love solving complex coding challenges and learning new frameworks!
