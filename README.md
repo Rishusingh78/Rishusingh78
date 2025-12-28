@@ -1,6 +1,8 @@
-## Hi 👋I'm Rishu Kr singh 
-# 💫 About Me:
-👋 Hi, I’m @Rishusingh78<br>👀 Passionate about coding and tech!<br>🌱 Currently diving deep into backend web development.<br>💬 Open to collaborations on exciting projects!<br>📫 You can reach me via [email/rishukrsingh78@gmail.com/].<br>😄 Pronouns: he/him<br>⚡ Fun fact: I love solving complex coding challenges and learning new frameworks!
+##👋 I'm Rishu Kr singh   
+### Full-Stack Web Developer | MERN Stack | Problem Solver  
+
+I’m a **Full-Stack Web Developer** passionate about building **scalable, efficient, and user-focused web applications**.  
+I enjoy working on backend systems, APIs, and solving real-world problems through clean code and modern technologies.
 
 
 ## 🌐 Connect With Me
