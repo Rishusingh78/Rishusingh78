@@ -20,9 +20,6 @@
   <a href="https://instagram.com/fit.withrishu">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://facebook.com/rishukumarsingh">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"/>
-  </a>
 </p>
 
 # 💻 Tech Stack:
